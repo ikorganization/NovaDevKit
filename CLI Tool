@@ -1,0 +1,9 @@
+
+# CLI Tool 💻
+
+## Description
+Command-line tool for everyday tasks.
+
+## Install
+```bash
+pip install .
